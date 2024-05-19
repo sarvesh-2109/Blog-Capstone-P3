@@ -2,6 +2,13 @@
 
 Welcome to the **Blog Post Application** repository! This application is built with Flask and allows users to create, edit, delete, and view blog posts. Additionally, users can contact the blog owner via a contact form, which sends an email using SMTP.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Blog-Capstone-P3/assets/113255836/55c5ae2e-4af5-4c3a-ba69-204ed022b6a7
+
+
+
 ## Features
 
 - 📝 **Create Blog Posts**: Add new blog posts with a title, subtitle, author name, image URL, and content using CKEditor.
