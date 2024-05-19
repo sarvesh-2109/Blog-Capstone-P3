@@ -16,8 +16,8 @@ app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
 ckeditor = CKEditor(app)
 Bootstrap5(app)
 
-MY_EMAIL = "udemy.python21@gmail.com"
-PASSWORD = "rxibphfbdniwjnpu"
+MY_EMAIL = # Your email id
+PASSWORD = # Your Email App Password
 
 
 # CREATE DATABASE
